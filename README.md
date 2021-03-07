@@ -6,6 +6,6 @@ See the Jupyter notebook for a description. The conda environment required to ru
 
 Before running, you need to obtain the dataset by running ```get-dataset.sh```. This requires the ```wget``` and ```unzip``` utilities.
 
-Licence: GPLv3 (see LICENCE file).
+Licence: GPLv3 (see LICENSE file).
 
 
